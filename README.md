@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello
 
-<!--
-**saraaa7447/saraaa7447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Sara. I'm a full-stack developer and graphic desiner with a plethora of hobbies. One of them is retro & modern computing - software and hardware. Hence here you will find projects I've developed either for fun or for "legacy systems", mostly old Macs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I can program in:
+- C#,
+- C/C++,
+- Basic,
+- Pascal,
+- HTML & CSS, JavaScript, PHP,
+- Python,
+- Lua
